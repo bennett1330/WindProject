@@ -2,3 +2,4 @@
 #* text=auto
 * linguist-vendored
 *.R linguist-vendored=false
+* linguist-language=R
