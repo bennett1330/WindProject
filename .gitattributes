@@ -1,3 +1,3 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+#* text=auto
 .Rproj.user/8EC8F792/* linguist-vendored
